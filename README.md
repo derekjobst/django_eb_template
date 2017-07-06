@@ -1,6 +1,8 @@
 # django_eb_template
 Django 1.11.2 template configured to work with AWS Elastic Beanstalk
 
+This was built with the help of Real Python's [Guide](https://realpython.com/blog/python/deploying-a-django-app-to-aws-elastic-beanstalk).
+
 ## Notes:
 1. Replace the Security Key. I've generated this one for the public repository:
 ```
